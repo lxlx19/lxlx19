@@ -1,4 +1,5 @@
-## Ola! Eu sou o Alex. Programação é meu maior passatempo.
+## Oi, eu sou o Alex. Sou engenheiro de projetos e programação é um passatempo que cultivo.
+
 
 <div align="center">
   <a href="https://github.com/lxlx19">
