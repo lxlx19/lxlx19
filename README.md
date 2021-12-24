@@ -1,4 +1,4 @@
-## Oi, eu sou o Alex. Sou engenheiro de projetos e programação é um passatempo que cultivo.
+## Oi, eu sou o Alex, mas meu apelido é LX. Sou engenheiro de projetos e programação é um passatempo.
 
 
 <div align="center">
@@ -16,6 +16,7 @@
   <img align="center" alt="Alex-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
   <img align="center" alt="Alex-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> 
   <img align="center" alt="Alex-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Alex-go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
  </div>
   <img align="center" alt="Alex-Pycharm" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg">
   <img align="center" alt="Alex-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
