@@ -1,9 +1,10 @@
 <h1 align="center">Oi 👋, Eu sou o Alex Simões a.k.a "LX"</h1>
 <h3 align="center">Engenheiro de projetos de automação elétrica para indústria e apaixonado por programação.  </h3>
 
+
 - 🔭 Atualmente trabalho na [**Schneider Electric**](www.se.com)
 
-- 🌱 Estou estudando [**Python**](https://www.python.org/), [**Javascript**](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) e [**Go**](https://go.dev/)
+- 🌱 Estou estudando [**Python**](https://www.python.org/), [**Flask**](https://flask.palletsprojects.com/en/2.0.x/) e [**Go**](https://go.dev/)
 
 - 📫 Pode falar comigo através do e-mail **lxlx19@gmail.com**
 
@@ -34,7 +35,8 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  </p>
 
 <h3 align="left">Frameworks:</h3>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> </p>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a></p>
 
 <h3 align="left">Banco de dados:</h3>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  </p>
