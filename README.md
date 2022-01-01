@@ -2,17 +2,20 @@
 <h3 align="center">Engenheiro de projetos de automação elétrica para indústria e apaixonado por programação.  </h3>
 
 
-- 🔭 Atualmente trabalho na [**Schneider Electric**](www.se.com)
+
+- 👷 Atualmente trabalho na [**Schneider Electric**](www.se.com)
 
 - 🌱 Estou estudando [**Python**](https://www.python.org/), [**Flask**](https://flask.palletsprojects.com/en/2.0.x/) e [**Go**](https://go.dev/)
 
 - 📫 Pode falar comigo através do e-mail **lxlx19@gmail.com**
 
-- 📄 Saiba mais sobre mim no [**Linkedin**](https://www.linkedin.com/in/alex-simoess/)
+- 🔎 Saiba mais sobre mim no [**Linkedin**](https://www.linkedin.com/in/alex-simoess/)
 
-- ⚡ Sou viciado em montagem de quebra-cabeças (jigsaw puzzle). Pode encontrar minhas montagens clicando no [**Instagram**](https://www.instagram.com/lx_puzzle/)
+- 🖥️ Gosto de trabalhar no [**Windows 10**](https://www.microsoft.com/pt-br/software-download/windows10) e também no [**Manjaro**](https://manjaro.org/)
 
-- ⚡ Sou jogador de FPS Tático. Já joguei [**CS: GO**](https://blog.counter-strike.net/), mas hoje prefiro competir no [**Valorant**](https://playvalorant.com/pt-br/)
+- 🧩 Sou viciado em montagem de quebra-cabeças (jigsaw puzzle). Pode encontrar minhas montagens clicando no [**Instagram**](https://www.instagram.com/lx_puzzle/)
+
+- 🐔 Sou jogador de FPS Tático. Já joguei [**CS: GO**](https://blog.counter-strike.net/), mas hoje prefiro competir no [**Valorant**](https://playvalorant.com/pt-br/)
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
