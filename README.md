@@ -60,10 +60,7 @@
 <h3 align="left">OS:</h3>
 <a href="https://www.microsoft.com/pt-br/windows/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://manjaro.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" alt="ubuntuubuntu" width="40" height="40"/> </a>
-<a href="https://www.debian.org/index.pt.html" target="_blank" rel="noreferrer"> <img src="https://www.debian.org/logos/openlogo-nd.svg" alt="debian" width="40" height="40"/> </a>
-<a href="https://getfedora.org/pt_BR/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" alt="fedora" width="40" height="40"/> </a> </p>
+<a href="https://manjaro.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg" alt="linux" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Suporte:</h3>
 <p><a href="https://www.buymeacoffee.com/lxlx19"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lxlx19" /></a></p><br><br>
