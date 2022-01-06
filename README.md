@@ -50,7 +50,7 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
 <a href="https://visualstudio.microsoft.com/pt-br/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="40" height="40"/> </a>
 <a href="https://atom.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" alt=atom" width="40" height="40"/> </a>
-<a href="https://www.spyder-ide.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/archive/7/7e/20211122181859%21Spyder_logo.svg" alt=spider" width="40" height="40"/> </a>
+<a href="https://www.tableau.com/pt-br" target="_blank" rel="noreferrer"> <img src="./Image/tableau-software.svg" alt=tableau" width="40" height="40"/> </a>
 <a href="https://www.jetbrains.com/pt-br/pycharm/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt=pycharm" width="40" height="40"/> </a>
 </p>
 
