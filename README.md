@@ -5,11 +5,11 @@
 
 - 👷 Atualmente trabalho na [**Schneider Electric**](www.se.com)
 
-- 🌱 Estou estudando [**Python**](https://www.python.org/), [**Flask**](https://flask.palletsprojects.com/en/2.0.x/) e [**PHP**](https://www.php.net/)
+- 🌱 Estou estudando [**Python**](https://www.python.org/) e [**PHP**](https://www.php.net/)
 
 - 📫 Pode falar comigo através do e-mail **lxlx19@gmail.com**
 
-- 🔎 Saiba mais sobre mim no [**Linkedin**](https://www.linkedin.com/in/alex-simoess/)
+- 🔎 Saiba mais sobre mim no [**Linkedin**](https://www.linkedin.com/in/alex-simoess/) ou acesse meu currículo [**aqui**](https://htmlpreview.github.io/?https://github.com/lxlx19/Curriculo_HTML/blob/main/Curriculo/index.html)
 
 - 🖥️ Gosto de trabalhar no [**Windows 10**](https://www.microsoft.com/pt-br/software-download/windows10) e também no [**Manjaro**](https://manjaro.org/)
 
@@ -35,22 +35,22 @@
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" width="40" height="40"/> </a>  </p>
 
 <h3 align="left">Frameworks:</h3>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a></p>
 
 <h3 align="left">Banco de dados:</h3>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://dev.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Ferramentas:</h3>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="./Image/jupyter.svg" alt="jupyter" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
 <a href="https://visualstudio.microsoft.com/pt-br/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="40" height="40"/> </a>
-<a href="https://atom.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" alt=atom" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt=docker" width="40" height="40"/> </a>
 <a href="https://www.tableau.com/pt-br" target="_blank" rel="noreferrer"> <img src="./Image/tableau-software.svg" alt=tableau" width="40" height="40"/> </a>
 <a href="https://www.jetbrains.com/pt-br/pycharm/" target="_blank" rel="noreferrer"> <img src="./Image/PyCharm_Icon.svg" alt=pycharm" width="40" height="40"/> </a>
 </p>
@@ -75,5 +75,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lxlx19&layout=compact&show_icons=true&locale=pt-br"/>
 </div>
 
-  
+
    ![Snake animation](https://github.com/lxlx19/lxlx19/blob/output/github-contribution-grid-snake.svg)
