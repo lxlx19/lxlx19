@@ -1,28 +1,26 @@
 <h1 align="center">Oi 👋, Eu sou o Alex Simões a.k.a "LX"</h1>
 <h3 align="center">Engenheiro de projetos de automação elétrica para indústria e apaixonado por programação.  </h3>
 
+-   👷 Atualmente trabalho na [**Schneider Electric**](www.se.com)
 
+-   🌱 Estou estudando [**Python**](https://www.python.org/) e [**FastAPI**](https://fastapi.tiangolo.com/)
 
-- 👷 Atualmente trabalho na [**Schneider Electric**](www.se.com)
+-   📫 Pode falar comigo através do e-mail **lxlx19@gmail.com**
 
-- 🌱 Estou estudando [**Python**](https://www.python.org/) e [**PHP**](https://www.php.net/)
+-   🔎 Saiba mais sobre mim no [**LinkedIn**](https://www.linkedin.com/in/alex-simoess/) ou acesse meu currículo [**aqui**](https://htmlpreview.github.io/?https://github.com/lxlx19/Curriculo_HTML/blob/main/Curriculo/index.html)
 
-- 📫 Pode falar comigo através do e-mail **lxlx19@gmail.com**
+-   🖥️ Gosto de trabalhar no [**Windows 10**](https://www.microsoft.com/pt-br/software-download/windows10) e também no [**Manjaro Linux**](https://manjaro.org/)
 
-- 🔎 Saiba mais sobre mim no [**Linkedin**](https://www.linkedin.com/in/alex-simoess/) ou acesse meu currículo [**aqui**](https://htmlpreview.github.io/?https://github.com/lxlx19/Curriculo_HTML/blob/main/Curriculo/index.html)
+-   🧩 Sou viciado em montagem de quebra-cabeças (jigsaw puzzle).
 
-- 🖥️ Gosto de trabalhar no [**Windows 10**](https://www.microsoft.com/pt-br/software-download/windows10) e também no [**Manjaro**](https://manjaro.org/)
-
-- 🧩 Sou viciado em montagem de quebra-cabeças (jigsaw puzzle). Pode encontrar minhas montagens clicando no [**Instagram**](https://www.instagram.com/lx_puzzle/)
-
-- 🐔 Sou jogador de FPS Tático. Já joguei [**CS: GO**](https://blog.counter-strike.net/), mas hoje prefiro competir no [**Valorant**](https://playvalorant.com/pt-br/)
+-   🐔 Sou jogador de FPS Tático. Já joguei [**CS: GO**](https://blog.counter-strike.net/), mas hoje prefiro competir no [**Valorant**](https://playvalorant.com/pt-br/)
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/alex-simoess/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alex-simoess"/></a>
 <a href="https://discord.gg/TyjVrfVz" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="lxlx191" /></a>
 <a href="mailto:lxlx19@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="lxlx19" /></a>
-<a href="https://instagram.com/lx_puzzle" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="lx_puzzle" /></a>
+<!-- <a href="https://instagram.com/lx_puzzle" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="lx_puzzle" /></a> -->
 <a href="https://www.youtube.com/channel/UCWbKzrKXA5maxm4f18GPuyQ" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="lxlx19"/></a>
 <a href="https://www.twitch.tv/lxlx19" target="blank"><img align="center" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="lxlx19" /></a>
 </p>
@@ -40,7 +38,8 @@
 
 <h3 align="left">Frameworks:</h3>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a></p>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="./Image/fastapi-1.svg" alt="fastapi" width="38" height="38"/> </a></p>
 
 <h3 align="left">Banco de dados:</h3>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
@@ -75,5 +74,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lxlx19&layout=compact&show_icons=true&locale=pt-br"/>
 </div>
 
-
-   ![Snake animation](https://github.com/lxlx19/lxlx19/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lxlx19/lxlx19/blob/output/github-contribution-grid-snake.svg)
