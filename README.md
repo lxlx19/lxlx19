@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋, Eu sou o Alex Simões a.k.a "LX"</h1>
-<h3 align="center">Engenheiro de projetos de automação elétrica para indústria e apaixonado por programação.  </h3>
+<h3 align="center">Sou Senior Data Analytics, trabalhando com Tableau, Python e SQL. Sempre fui apaixonado por programação.  </h3>
 
 -   👷 Atualmente trabalho na [**Schneider Electric**](www.se.com)
 
--   🌱 Estou estudando [**Python**](https://www.python.org/) e [**FastAPI**](https://fastapi.tiangolo.com/)
+-   🌱 Estou estudando [**Python**](https://www.python.org/) através do Fluent Python do Luciano Ramalho.
 
 -   📫 Pode falar comigo através do e-mail **lxlx19@gmail.com**
 
@@ -37,8 +37,8 @@
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" width="40" height="40"/> </a>  </p>
 
 <h3 align="left">Frameworks:</h3>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a></p> 
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/> </a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a></p>
 <!-- <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="./Image/fastapi-1.svg" alt="fastapi" width="38" height="38"/> </a>-->
 
 <h3 align="left">Banco de dados:</h3>
