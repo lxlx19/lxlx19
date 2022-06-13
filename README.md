@@ -1,21 +1,21 @@
-<h1 align="center">Oi 👋, Eu sou o Alex Simões a.k.a "LX"</h1>
-<h3 align="center">Sou Senior Data Analytics, trabalhando com Tableau, Python e SQL. Sempre fui apaixonado por programação.  </h3>
+<h1 align="center">Hi 👋, I'm Alex Simões a.k.a "LX"</h1>
+<h3 align="center">I'm a Senior Data Analytics, working with Tableau, Python and SQL. I have always been passionate about programming.</h3>
 
--   👷 Atualmente trabalho na [**Schneider Electric**](www.se.com)
+-   👷 I'm currently working at [**Schneider Electric**](www.se.com)
 
--   🌱 Estou estudando [**Python**](https://www.python.org/) através do Fluent Python do Luciano Ramalho.
+-   🌱 I'm studying advanced [**Python**](https://www.python.org/) throught Luciano Ramolho's book "Fluent Python"
 
--   📫 Pode falar comigo através do e-mail **lxlx19@gmail.com**
+-   📫 You can reach me by email **lxlx19@gmail.com**
 
--   🔎 Saiba mais sobre mim no [**LinkedIn**](https://www.linkedin.com/in/alex-simoess/) ou acesse meu currículo [**aqui**](https://htmlpreview.github.io/?https://github.com/lxlx19/Curriculo_HTML/blob/main/Curriculo/index.html)
+-   🔎 Learn more about me on [**LinkedIn**](https://www.linkedin.com/in/alex-simoess/) or access my resumé [**here**](https://htmlpreview.github.io/?https://github.com/lxlx19/Curriculo_HTML/blob/main/Curriculo/index.html)
 
--   🖥️ Gosto de trabalhar no [**Windows 10**](https://www.microsoft.com/pt-br/software-download/windows10) e também no [**Manjaro Linux**](https://manjaro.org/)
+-   🖥️ I like to work on [**Windows 10**](https://www.microsoft.com/pt-br/software-download/windows10) and also on [**Manjaro Linux**](https://manjaro.org/)
 
--   🧩 Sou viciado em montagem de quebra-cabeças (jigsaw puzzle).
+-   🧩 I'm addicted to jigsaw puzzles.
 
--   🐔 Sou jogador de FPS Tático. Já joguei [**CS: GO**](https://blog.counter-strike.net/), mas hoje prefiro competir no [**Valorant**](https://playvalorant.com/pt-br/)
+-   🐔 I'm a Tactical FPS player. I have played [**CS: GO**](https://blog.counter-strike.net/), but today I prefer to compete in [**Valorant**](https://playvalorant.com/pt-br/)
 
-<h3 align="left">Conecte-se comigo:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/alex-simoess/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alex-simoess"/></a>
 <a href="https://discord.gg/TyjVrfVz" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="lxlx191" /></a>
@@ -25,7 +25,7 @@
 <a href="https://www.twitch.tv/lxlx19" target="blank"><img align="center" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="lxlx19" /></a>
 </p>
 
-<h3 align="left">Linguagens e Bibliotecas:</h3>
+<h3 align="left">Languages and Libraries:</h3>
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
@@ -41,11 +41,11 @@
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a></p>
 <!-- <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="./Image/fastapi-1.svg" alt="fastapi" width="38" height="38"/> </a>-->
 
-<h3 align="left">Banco de dados:</h3>
+<h3 align="left">Databases:</h3>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://dev.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Ferramentas:</h3>
+<h3 align="left">Tools:</h3>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="./Image/jupyter.svg" alt="jupyter" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
 <a href="https://visualstudio.microsoft.com/pt-br/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="40" height="40"/> </a>
@@ -54,7 +54,7 @@
 <a href="https://www.jetbrains.com/pt-br/pycharm/" target="_blank" rel="noreferrer"> <img src="./Image/PyCharm_Icon.svg" alt=pycharm" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Versionamento:</h3>
+<h3 align="left">Version Control:</h3>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="./Image/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="git" width="40" height="40"/> </a> </p>
 
@@ -63,7 +63,7 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://manjaro.org/" target="_blank" rel="noreferrer"> <img src="./Image/Manjaro-logo.svg" alt="linux" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Suporte:</h3>
+<h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/lxlx19"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lxlx19" /></a></p><br><br>
 
 <br>
