@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Alex Simões a.k.a "LX"</h1>
 <h3 align="center">I'm a Senior Data Analytics, working with Tableau, Python and SQL. I have always been passionate about programming.</h3>
 
--   👷 I'm currently working at [**Schneider Electric**](www.se.com)
+- 👷 I'm currently working at [**Schneider Electric**](www.se.com)
 
--   🌱 I'm studying advanced [**Python**](https://www.python.org/) throught Luciano Ramolho's book "Fluent Python"
+- 🌱 I'm studying advanced [**Python**](https://www.python.org/) throught Luciano Ramolho's book "Fluent Python"
 
--   📫 You can reach me by email **lxlx19@gmail.com**
+- 📫 You can reach me by email **lxlx19@gmail.com**
 
--   🔎 Learn more about me on [**LinkedIn**](https://www.linkedin.com/in/alex-simoess/) or access my resumé [**here**](https://htmlpreview.github.io/?https://github.com/lxlx19/Curriculo_HTML/blob/main/Curriculo/index.html)
+- 🔎 Learn more about me on [**LinkedIn**](https://www.linkedin.com/in/alex-simoess/) or access my resumé [**here**](https://htmlpreview.github.io/?https://github.com/lxlx19/Curriculo_HTML/blob/main/Curriculo/index.html)
 
--   🖥️ I like to work on [**Windows 10**](https://www.microsoft.com/pt-br/software-download/windows10) and also on [**Manjaro Linux**](https://manjaro.org/)
+- 🖥️ I like to work on [**Windows 10**](https://www.microsoft.com/pt-br/software-download/windows10) and also on [**Manjaro Linux**](https://manjaro.org/)
 
--   🧩 I'm addicted to jigsaw puzzles.
+- 🧩 I'm addicted to jigsaw puzzles.
 
--   🐔 I'm a Tactical FPS player. I have played [**CS: GO**](https://blog.counter-strike.net/), but today I prefer to compete in [**Valorant**](https://playvalorant.com/pt-br/)
+- 🐔 I'm a Tactical FPS player. I have played [**CS: GO**](https://blog.counter-strike.net/), but today I prefer to compete in [**Valorant**](https://playvalorant.com/pt-br/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,6 +43,8 @@
 <!-- <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="./Image/fastapi-1.svg" alt="fastapi" width="38" height="38"/> </a>-->
 
 <h3 align="left">Databases:</h3>
+<a href="https://aws.amazon.com/pt/redshift/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Amazon-Redshift-Logo.svg" alt="amazon redshift" width="40" height="40"/> </a>
+<a href="https://cloud.google.com/bigquery/" target="_blank" rel="noreferrer"> <img src="./Image/google-bigquery-logo-1.svg" alt="google big query" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://dev.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
@@ -76,5 +78,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lxlx19&show_icons=true&locale=pt-br&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lxlx19&layout=compact&show_icons=true&locale=pt-br"/>
 </div>
-
-<!-- ![Snake animation](https://github.com/lxlx19/lxlx19/blob/output/github-contribution-grid-snake.svg) -->
