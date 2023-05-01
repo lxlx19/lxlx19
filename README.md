@@ -25,38 +25,53 @@
 <a href="https://www.twitch.tv/lxlx19" target="blank"><img align="center" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="lxlx19" /></a>
 </p>
 
-<h3 align="left">Languages and Libraries:</h3>
+<h3 align="left">Languages:</h3>
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" width="40" height="40"/> </a>  </p>
 
-<h3 align="left">Frameworks:</h3>
+<h3 align="left">Python libraries for Data:</h3>
+<p align="left">
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
+<a href="https://www.pola.rs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/web/polars-logo-python.svg" alt="polars" width="40" height="40"/> </a>
+<a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="SqlAlchemy" width="40" height="40"/> </a>
+<a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> </a>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="./Image/mat_logo.svg" alt="matplotlib" width="40" height="40"/> </a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+</p>
+
+<h3 align="left">Python Frameworks for Data:</h3>
+<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="./Image/airflow.svg" alt="airflow" width="38" height="38"/> </a>
+<a href="https://dagster.io/" target="_blank" rel="noreferrer"> <img src="./Image/dagster-primary-mark.svg" alt="dagster" width="38" height="38"/> </a>
+</p>
+
+<h3 align="left">Others Python Frameworks:</h3>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="./Image/fastapi-1.svg" alt="fastapi" width="38" height="38"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/> </a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a></p>
 <!-- <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="./Image/fastapi-1.svg" alt="fastapi" width="38" height="38"/> </a>-->
 
-<h3 align="left">Databases:</h3>
+
+<h3 align="left">SQL Databases:</h3>
 <a href="https://aws.amazon.com/pt/redshift/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Amazon-Redshift-Logo.svg" alt="amazon redshift" width="40" height="40"/> </a>
-<a href="https://cloud.google.com/bigquery/" target="_blank" rel="noreferrer"> <img src="./Image/google-bigquery-logo-1.svg" alt="google big query" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer"> <img src="./Image/MS_SQL_Server.svg" alt="sqlserver" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://dev.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<a href="https://dev.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://mariadb.com/" target="_blank" rel="noreferrer"> <img src="./Image/maria.svg" alt="mariadb" width="40" height="40"/> </a>
+<a href="https://cloud.google.com/bigquery/" target="_blank" rel="noreferrer"> <img src="./Image/google-bigquery-logo-1.svg" alt="google big query" width="40" height="40"/> </a></p>
 
 <h3 align="left">Tools:</h3>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="./Image/jupyter.svg" alt="jupyter" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
-<a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="R Studio" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt=docker" width="40" height="40"/> </a>
 <a href="https://www.tableau.com/pt-br" target="_blank" rel="noreferrer"> <img src="./Image/tableau-software.svg" alt=tableau" width="40" height="40"/> </a>
 <a href="https://dbeaver.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" alt=dbeaver" width="40" height="40"/> </a>
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt=powerbi" width="40" height="40"/> </a>
-<a href="https://www.jetbrains.com/pt-br/pycharm/" target="_blank" rel="noreferrer"> <img src="./Image/PyCharm_Icon.svg" alt=pycharm" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Version Control:</h3>
