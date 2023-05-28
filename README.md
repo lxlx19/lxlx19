@@ -66,6 +66,7 @@
 <a href="https://cloud.google.com/bigquery/" target="_blank" rel="noreferrer"> <img src="./Image/google-bigquery-logo-1.svg" alt="google big query" width="40" height="40"/> </a></p>
 
 <h3 align="left">Tools:</h3>
+<a href="https://neovim.io/" target="blank" rel="noreferrer"> <img src="./Image/Neovim-mark.svg" alt="neovim" width="40" height="40"/> </a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="./Image/jupyter.svg" alt="jupyter" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt=docker" width="40" height="40"/> </a>
